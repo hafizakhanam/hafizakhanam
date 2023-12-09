@@ -15,6 +15,4 @@
 
 ## 💻 Tech Stack & Statistics
 
-![hafizakhanam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafizakhanam&theme=dracula&hide_border=true)
-
-![hafizakhanam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizakhanam&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![hafizakhanam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafizakhanam&theme=dracula&hide_border=true) 
