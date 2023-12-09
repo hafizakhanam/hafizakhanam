@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm hafiza! 👋
 
-<!--
-**hafizakhanam/hafizakhanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](assets/img/git-cover.jpg)
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,html,javascript,css,bootstrap,express,mongodb,tailwind&theme=light)](https://skillicons.dev)
+
+
+
+
+## 🌱 I'm Currently Learning
+
+[![My Skills](https://skillicons.dev/icons?i=materialui,redux&theme=light)](https://skillicons.dev)
+
+## 💻 Tech Stack & Statistics
+
+![hafizakhanam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafizakhanam&theme=dracula&hide_border=true)
+
+![hafizakhanam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizakhanam&theme=dracula&show_icons=true&hide_border=true&layout=compact)
